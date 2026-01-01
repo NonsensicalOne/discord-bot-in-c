@@ -21,7 +21,7 @@ You'll need `meson`, `ninja`, and `clang` installed on your system (tested on Fe
 ### 2. Setup
 ```bash
 git clone https://github.com/NonsensicalOne/discord-bot-in-c
-cd discord-bot-c
+cd discord-bot-in-c
 
 meson setup build
 ```
